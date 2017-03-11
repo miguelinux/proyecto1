@@ -14,7 +14,7 @@ for (j = 0; j < n-1; j++)
 	          for (i = j+1; i < n; i++) {
 			          /* if this element is less, then it is the new
 				   * minimum */
-			          if (j[i] < j[iMin]) {
+			          if (a[i] < a[iMin]) {
 					              /* found new minimum;
 						       * remember its index */
 					              iMin = i;
