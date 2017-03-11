@@ -21,7 +21,7 @@ for (j = 0; j < n-1; j++)
 						              }
 				      }
 
-		      if(iMin != j) 
+				  if(iMin != j) 
 			          {
 					          swap(a[j], a[iMin]);
 						      }
