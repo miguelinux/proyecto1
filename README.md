@@ -1,3 +1,3 @@
 # Ejemplos de GitHub
 
-URL: https://docs.google.com/presentation/d/1fKBLFs4vmDyQCNlTk9u4Ed21S7SZN2pvGdRP1D28P1I/edit?usp=sharing
+https://docs.google.com/document/d/1-8cYeRuuSO41r5V3frHX7NvAPmJ4PdZYrlQ5YkeRQrE/edit?usp=sharing
